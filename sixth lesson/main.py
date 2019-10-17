@@ -32,3 +32,4 @@ label["fg"] = "red"
 
 
 window.mainloop()
+#комментарий
